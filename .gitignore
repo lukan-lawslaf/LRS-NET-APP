@@ -1,0 +1,14 @@
+# Flutter related
+lrs_net_chat/build/
+lrs_net_chat/.dart_tool/
+lrs_net_chat/.flutter-plugins
+lrs_net_chat/.flutter-plugins-dependencies
+lrs_net_chat/.packages
+lrs_net_chat/pubspec.lock
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
